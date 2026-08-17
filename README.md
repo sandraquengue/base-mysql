@@ -90,5 +90,3 @@ gestao-database-mysql
 1. Executar o ficheiro `create_database.sql` para criar o banco de dados e as tabelas.
 2. Executar o ficheiro `insert_data.sql` para inserir os dados.
 3. Executar o ficheiro `queries.sql` para realizar as consultas e análises.
-# base-mysql
-Projeto de criação e análise de um banco de dados relacional utilizando MySQL e SQL.
